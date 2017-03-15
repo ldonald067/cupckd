@@ -1,0 +1,32 @@
+p {
+  width: auto;
+  font-family: sans-serif;
+  font-style: italic;
+  color: #66b3ff;
+}
+
+h1 {
+  color: #66b3ff;
+  width: 70%;
+  background-color: yellow;
+  text-align: center;
+}
+
+body{
+  background-color: lightpink;
+}
+img {
+  border-radius: 50%;
+  width: 300px;
+  height: auto;
+}
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  background-color: red;
+  width: 20%;
+  height: auto;
+}
