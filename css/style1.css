@@ -1,0 +1,14 @@
+h2.intro {
+  font-weight: bold;
+  font-family: monospace;
+}
+
+p.intro {
+  font-weight: lighter;
+  font-style: italic;
+  color: grey;
+}
+
+p {
+  color: red;
+}
