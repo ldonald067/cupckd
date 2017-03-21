@@ -30,3 +30,20 @@ img {
   width: 20%;
   height: auto;
 }
+
+.heyhey {
+  font-style: italic;
+  color: gray;
+}
+
+.newone {
+  font-family: cursive;
+  color: yellow;
+
+}
+
+.lastguy {
+  font-size: 20pt;
+  font-style: bold;
+
+}
